@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  margin-left: 600px;
+}
+input {
+  margin-left: 600px;
+}
+button{
+  margin-left: 600px;
+}
